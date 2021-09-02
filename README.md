@@ -1,9 +1,12 @@
-In this repository, my Bachelor's thesis in Computer Science.
+In this repository, my Bachelor's thesis in Computer Science written at the University of Turin (Italy).
 
 # IntersHate
-### Bachelor's Thesis in Computer Science: "IntersHate: an Italian corpus to study misogyny and intersectionality on Twitter"
-### Tesi di Laurea di I livello in Informatica: "IntersHate: un corpus italiano per lo studio di misoginia e intersezionalità in Twitter"
+**Bachelor's Thesis in Computer Science: "IntersHate: an Italian corpus to study misogyny and intersectionality on Twitter"**
+
+**Tesi di Laurea di I livello in Informatica: "IntersHate: un corpus italiano per lo studio di misoginia e intersezionalità in Twitter"**
+
 Relatori: Prof.ssa Viviana Patti, Dott. Mirko Lai
+
 Anno Accademico 2019-2020
 
 # Abstract (English)
