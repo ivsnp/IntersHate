@@ -1,6 +1,11 @@
+In this repository, my Bachelor's thesis in Computer Science.
+---
+
 # IntersHate
-### Bachelor's thesis: "IntersHate: an Italian corpus to study misogyny and intersectionality on Twitter"
-### Tesi di Laurea di I livello: "IntersHate: un corpus italiano per lo studio di misoginia e intersezionalità in Twitter"
+## Bachelor's Thesis in Computer Science: "IntersHate: an Italian corpus to study misogyny and intersectionality on Twitter"
+## Tesi di Laurea di I livello in Informatica: "IntersHate: un corpus italiano per lo studio di misoginia e intersezionalità in Twitter"
+### Relatori: Prof.ssa Viviana Patti, Dott. Mirko Lai
+### Anno Accademico 2019-2020
 
 # Abstract (English)
 This thesis contributes to computational linguistics studies. The paper explains the research carried out on online hate speech detection and misogyny on social media concentrating on intersectionality of hate. Given the main focus on the phenomenon of online misogyny, in this study we have developed a corpus-based Twitter data analysis around victims of online hate campaigns selected to study how misogyny and sexism are expressed in texts, intersecting with other categories of hate and social discrimination, such as xenophobia, racism and islamophobia. The study includes the analysis of hatred in Twitter according to targets and events and the process of developing the IntersHate corpus. The latter consists of several phases, from the collection in digital format of linguistic data representative of the debates around the victims of hatred on Twitter, to the annotation of the corpus according to a novel multi-layer scheme designed to assess the presence of intersectional hate. The Twitter data collection and filtering are based on a mixed methodology involving keywords, hashtags and conversational threads concerning the selected debates. The corpus analysis includes the labels distribution analysis on several layers, the analysis and discussion of the inter-annotator agreement and, lastly, an intrinsic and comparative analysis of the linguistic and lexical features of the annotated texts, relying on the HurtLex computational hate lexicon.
